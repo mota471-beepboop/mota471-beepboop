@@ -1,7 +1,7 @@
 ## Salve 👋
 
 guilherme mota
-<!--
+
 -engraçado
 
 -proativo
