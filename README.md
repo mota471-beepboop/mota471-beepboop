@@ -19,7 +19,9 @@
 ###
 
 <div align="left">
+  <a href="https://s3.static.brasilescola.uol.com.br/be/2023/02/esquema-ilustrativo-com-a-conceituacao-matematica-de-potenciacao.jpg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
