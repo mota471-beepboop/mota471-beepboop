@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
  
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.sv](https://toppng.com/uploads/preview/custom-drawing-in-2d-godot-engine-latest-documentation-godot-game-engine-logo-11562936391q4epbhkxi9.png)" height="30" alt="python logo"  />
+  <img src="[https://toppng.com/uploads/preview/custom-drawing-in-2d-godot-engine-latest-documentation-godot-game-engine-logo-11562936391q4epbhkxi9.png]" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
